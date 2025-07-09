@@ -1,0 +1,17 @@
+My idea for this is as follows:
+Utilizing Node, Express, and MySQL, I will build a web application (locally hosted, maybe hosted online later if I can figure it out) that allows you to generate a random killer from the entire list of killers, and assign them 4 unique perks to run. Think of it as a Random Killer Generator. 
+
+One table would be a list of Killers, and some sort of keyword filter assigned to them, such as Stealth, Mobility, Setup, etc. Pretty straight forward and basic. Each killer would have an ID value. 
+
+The second table would be ALL the killer perks in the game, essentially just to store them somewhere to then grab them later on to assign to a killer at random. I'm not super worried about generating a description for each perk as well, but I may include it in the table to begin with just to have on hand. 
+
+Later on once these kinda basic things are setup, I can figure out how to implement an image url with each killer to show their picture, and then also do the same for the perk icons. 
+
+I am also thinking about making one for survivors. 
+
+If I do one for survivors make sure to include more stuff such as image url right off the bat to not have to manually insert stuff later. 
+
+Another update to ideas since its been a while: Use tables to group the perks accordingly, and create column/row names if needed. Make sure to create one row first to acts as the headers THEN do one for the perks.
+
+Furthermore, I think using the HTML checkboxes would actually be a really good idea to filter out certain killer perks from generation. For example, two that are simply named "All" or "None" to quickly filter them all, and then allow the user to mainly select certain killers by name to include their perks in the generation, and not include others. 
+

@@ -1,0 +1,40 @@
+The Trapper, Trap, Setup
+The Wraith, Stealth
+The Hillbilly, Mobility
+The Nurse, Mobility
+The Shape, Stealth, M1
+The Hag, M1, Trap
+The Doctor, Disruption, M1
+The Huntress, Ranged
+The Cannibal, Power-Based, Snowball
+The Nightmare, Stealth, Trap
+The Pig, Stealth, Trap
+The Clown, Disruption, M1
+The Spirit, Mobility, M1
+The Legion, Mobility, M1
+The Plague, Power-Based, M1
+The Ghost Face, Stealth, M1
+The Demogorgon, Mobility, M1
+The Oni, Mobility, M1
+The Deathslinger, Ranged, M1
+The Executioner, Ranged, M1
+The Blight, Mobility, M1
+The Twins, Snowball, Slugging
+The Trickster, Ranged, Snowball
+The Nemesis, Power-Based, Minions
+The Cenobite, Power-Based, M1
+The Artist, Ranged, Power-Based
+The Onryo, Mobility, Unique-Mori
+The Dredge, Mobility, M1
+The Mastermind, Mobility
+The Knight, Power-Based, Minions
+The Skull Merchant, Power-Based, M1
+The Singularity, Power-Based Cameras, M1
+The Xenomorph, Mobility, Power-Based
+The Good Guy, Mobility, M1
+The Unknown, Mobility, Ranged
+The Lich, Many Powers, Disruptive
+The Dark Lord, Many Powers, Disruptive
+The Houndmaster, Ranged, M1
+The Ghoul, Mobility, M1
+The Animatronic, Ranged, Mobility
