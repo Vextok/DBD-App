@@ -1,0 +1,157 @@
+Ace in the Hole, survivor_perk_images/ace_in_the_hole.jpg
+Adrenaline, survivor_perk_images/adrenaline.jpg
+Aftercare, survivor_perk_images/aftercare.jpg
+Alert, survivor_perk_images/alert.jpg
+Any Means Necessary, survivor_perk_images/any_means.jpg
+Appraisal, survivor_perk_images/appraisal.jpg
+Autodidact, survivor_perk_images/autodidact.jpg
+Babysitter, survivor_perk_images/babysitter.jpg
+Background Player, survivor_perk_images/background_player.jpg
+Balanced Landing, survivor_perk_images/balanced_landing.jpg
+Bardic Inspiration, survivor_perk_images/bardic_inspiration.jpg
+Better than New, survivor_perk_images/better_than_new.jpg
+Better Together, survivor_perk_images/better_together.jpg
+Bite the Bullet, survivor_perk_images/bite_the_bullet.jpg
+Blast Mine, survivor_perk_images/blast_mine.jpg
+Blood Pact, survivor_perk_images/blood_pact.jpg
+Blood Rush, survivor_perk_images/blood_rush.jpg
+Boil Over, survivor_perk_images/boil_over
+Bond, survivor_perk_images/bond.jpg
+Boon: Circle of Healing, survivor_perk_images/boon_circle_of_healing.jpg
+Boon: Dark Theory, survivor_perk_images/boon_dark_theory.jpg
+Boon: Exponential, survivor_perk_images/boon_exponential
+Boon: Illumination, survivor_perk_images/boon_illumination
+Boon: Shadow Step, survivor_perk_images/boon_shadow_step.jpg
+Borrowed Time, survivor_perk_images/borrowed_time.jpg
+Botany Knowledge, survivor_perk_images/botany_knowledge.jpg
+Breakdown, survivor_perk_images/breakdown.jpg
+Breakout, survivor_perk_images/breakout.jpg
+Buckle Up, survivor_perk_images/buckle_up.jpg
+Built to Last, survivor_perk_images/built_to_last.jpg
+Calm Spirit, survivor_perk_images/calm_spirit.jpg
+Camaraderie, survivor_perk_images/camaraderie.jpg
+Champion of Light, survivor_perk_images/champion_of_light.jpg
+Chemical Trap, survivor_perk_images/chemical_trap.jpg
+Clairvoyance, survivor_perk_images/clairvoyance.jpg
+Clean Break, survivor_perk_images/clean_break.jpg
+Corrective Action, survivor_perk_images/corrective_action.jpg
+Counterforce, survivor_perk_images/counterforce.jpg
+Cut Loose, survivor_perk_images/cut_loose.jpg
+Dance With Me, survivor_perk_images/dance_with_me.jpg
+Dark Sense, survivor_perk_images/dark_sense.jpg
+Dead Hard, survivor_perk_images/dead_hard.jpg
+Deadline, survivor_perk_images/deadline.jpg
+Deception, survivor_perk_images/deception.jpg
+Decisive Strike, survivor_perk_images/decisive_strike.jpg
+Deja Vu, survivor_perk_images/deja_vu.jpg
+Deliverance, survivor_perk_images/deliverance.jpg
+Desperate Measures, survivor_perk_images/desperate_measures.jpg
+Detective's Hunch, survivor_perk_images/detectives_hunch.jpg
+Distortion, survivor_perk_images/distortion.jpg
+Diversion, survivor_perk_images/diversion.jpg
+Dramaturgy, survivor_perk_images/dramaturgy.jpg
+Empathic Connection, survivor_perk_images/empathic_connection.jpg
+Empathy, survivor_perk_images/empathy.jpg
+Exultation, survivor_perk_images/exultation.jpg
+Eyes of Belmont, survivor_perk_images/eyes_of_belmont.jpg
+Fast Track, survivor_perk_images/fast_track.jpg
+Finesse, survivor_perk_images/finesse.jpg
+Fixated, survivor_perk_images/fixated.jpg
+Flashbang, survivor_perk_images/flashbang.jpg
+Flip-Flop, survivor_perk_images/flip_flop.jpg
+Fogwise, survivor_perk_images/fogwise.jpg
+For the People, survivor_perk_images/for_the_people.jpg
+Friendly Competition, survivor_perk_images/friendly_competition.jpg
+Hardened, survivor_perk_images/hardened.jpg
+Head On, survivor_perk_images/head_on.jpg
+Hope, survivor_perk_images/hope.jpg
+Hyperfocus, survivor_perk_images/hyperfocus.jpg
+Inner Focus, survivor_perk_images/inner_focus.jpg
+Inner Strength, survivor_perk_images/inner_strength.jpg
+Invocation: Treacherous Crows, survivor_perk_images/invocation_treacherous_crows.jpg
+Invocation: Weaving Spiders, survivor_perk_images/invocation_weaving_spiders.jpg
+Iron Will, survivor_perk_images/iron_will.jpg
+Kindred, survivor_perk_images/kindred.jpg
+Leader, survivor_perk_images/leader.jpg
+Left Behind, survivor_perk_images/left_behind.jpg
+Light-Footed, survivor_perk_images/light_footed.jpg
+Lightweight, survivor_perk_images/lightweight.jpg
+Lithe, survivor_perk_images/lithe.jpg
+Low Profile, survivor_perk_images/low_profile.jpg
+Lucky Break, survivor_perk_images/lucky_break.jpg
+Lucky Star, survivor_perk_images/lucky_star.jpg
+Made for This, survivor_perk_images/made_for_this.jpg
+Mettle of Man, survivor_perk_images/mettle_of_man.jpg
+Mirrored Illusion, survivor_perk_images/mirrored_illusion.jpg
+Moment of Glory, survivor_perk_images/moment_of_glory.jpg
+No Mither, survivor_perk_images/no_mither.jpg
+No One Left Behind, survivor_perk_images/no_one_left_behind.jpg
+Object of Obsession, survivor_perk_images/object_of_obsession.jpg
+Off the Record, survivor_perk_images/off_the_record.jpg
+Open Handed, survivor_perk_images/open_handed.jpg
+Overcome, survivor_perk_images/overcome.jpg
+Overzealous, survivor_perk_images/overzealous.jpg
+Parental Guidance, survivor_perk_images/parental_guidance.jpg
+Pharmacy, survivor_perk_images/pharmacy.jpg
+Plot Twist, survivor_perk_images/plot_twist.jpg
+Plunderer's Instinct, survivor_perk_images/plunderers_instinct.jpg
+Poised, survivor_perk_images/poised.jpg
+Potential Energy, survivor_perk_images/potential_energy.jpg
+Power Struggle, survivor_perk_images/power_struggle.jpg
+Premonition, survivor_perk_images/premonition.jpg
+Prove Thyself, survivor_perk_images/prove_thyself.jpg
+Quick & Quiet, survivor_perk_images/quick_and_quiet.jpg
+Quick Gambit, survivor_perk_images/quick_gambit.jpg
+Reactive Healing, survivor_perk_images/reactive_healing.jpg
+Reassurance, survivor_perk_images/reassurance.jpg
+Red Herring, survivor_perk_images/red_herring.jpg
+Repressed Alliance, survivor_perk_images/repressed_alliance.jpg
+Residual Manifest, survivor_perk_images/residual_manifest.jpg
+Resilience, survivor_perk_images/resilience.jpg
+Resurgence, survivor_perk_images/resurgence.jpg
+Rookie Spirit, survivor_perk_images/rookie_spirit.jpg
+Saboteur, survivor_perk_images/saboteur.jpg
+Scavenger, survivor_perk_images/scavenger.jpg
+Scene Partner, survivor_perk_images/scene_partner.jpg
+Second Wind, survivor_perk_images/second_wind.jpg
+Self-Care, survivor_perk_images/self_care.jpg
+Self-Preservation, survivor_perk_images/self_preservation.jpg
+Shoulder the Burden, survivor_perk_images/shoulder_the_burden.jpg
+Slippery Meat, survivor_perk_images/slippery_meat.jpg
+Small Game, survivor_perk_images/small_game.jpg
+Smash Hit, survivor_perk_images/smash_hit.jpg
+Sole Survivor, survivor_perk_images/sole_survivor.jpg
+Solidarity, survivor_perk_images/solidarity.jpg
+Soul Guard, survivor_perk_images/soul_guard.jpg
+Specialist, survivor_perk_images/specialist.jpg
+Spine Chill, survivor_perk_images/spine_chill.jpg
+Sprint Burst, survivor_perk_images/sprint_burst.jpg
+Stake Out, survivor_perk_images/stake_out.jpg
+Still Sight, survivor_perk_images/still_sight.jpg
+Streetwise, survivor_perk_images/streetwise.jpg
+Strength in Shadows, survivor_perk_images/strength_in_shadows.jpg
+Teamwork: Collective Stealth, survivor_perk_images/teamwork_collective_stealth.jpg
+Teamwork: Power of Two, survivor_perk_images/teamwork_power_of_two.jpg
+Technician, survivor_perk_images/technician.jpg
+Tenacity, survivor_perk_images/tenacity.jpg
+This Is Not Happening, survivor_perk_images/this_is_not_happening.jpg
+Troubleshooter, survivor_perk_images/troubleshooter.jpg
+Unbreakable, survivor_perk_images/unbreakable.jpg
+Up the Ante, survivor_perk_images/up_the_ante.jpg
+Urban Evasion, survivor_perk_images/urban_evasion
+Vigil, survivor_perk_images/vigil.jpg
+Visionary, survivor_perk_images/visionary.jpg
+Wake Up!, survivor_perk_images/wake_up.jpg
+We'll Make It, survivor_perk_images/well_make_it.jpg
+We're Gonna Live Forever, survivor_perk_images/were_gonna_live_forever.jpg
+Wicked, survivor_perk_images/wicked.jpg
+Windows of Opportunity, survivor_perk_images/windows_of_opportunity.jpg
+Wiretap, survivor_perk_images/wiretap.jpg
+Do No Harm, survivor_perk_images/do_no_harm.jpg
+Duty of Care, survivor_perk_images/duty_of_care.jpg
+Apocalyptic Ingenuity, survivor_perk_images/apocalyptic_ingenuity.jpg
+Come and Get Me!, survivor_perk_images/come_and_get_me.jpg
+Teamwork: Toughen Up, survivor_perk_images/teamwork_toughen_up.jpg
+Conviction, survivor_perk_images/conviction.jpg
+Last Stand, survivor_perk_images/last_stand
+Teamwork: Throw Down, survivor_perk_images/teamwork_throw_down.jpg

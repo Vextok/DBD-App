@@ -103,6 +103,99 @@ fs.readFile("./Killer_Perks.txt", 'utf8', (err,data) =>{
     connection.end(); //Connection.end() needs to be here otherwise the connection ends before it starts
 });*/
 
+/*Reading the Survivor_Names file along with their keywords and inserting into the MySQL table survivors.
+const fs = require('fs');
+fs.readFile("./Survivor_Names.txt", 'utf8', (err,data) =>{
+
+    if(err){
+        console.error(err);
+        return;
+    }
+    const lines = data.split('\n');
+    const Killers = {};
+
+    lines.forEach((line,index) => {
+
+        const specificLine = line;
+        //console.log(data);
+        //console.log('Line: ', specificLine);
+
+    
+        const parts = specificLine.split(',');
+        const name = parts[0];
+        const image_url = parts.slice(1).map(image => image.trim())
+    
+        
+        //console.log('Killer Name: ', name);
+        //console.log('Keyword', index + 1, keyword);
+            
+        const query = 'INSERT INTO survivors(survivor_name, survivor_image) VALUES (?,?)';
+        connection.query(query, [name, image_url], (err,result) =>{
+
+            if(err) throw err;
+            console.log(result);
+
+        });
+
+
+      
+
+
+        //Killers[name] = keywords;
+
+        //console.log('______');
+
+    });
+
+    
+    const specificLine = lines[10];
+    //console.log(data);
+    console.log('Line: ', specificLine);
+
+    const parts = specificLine.split(',');
+    const name = parts[0];
+    const image_url = parts.slice(1).map(image => image.trim()); // Trim each keyword
+
+    console.log('Survivor Name: ', name);
+    console.log('Survivor Image:', image_url)
+
+    connection.end(); //Connection.end() needs to be here otherwise the connection ends before it starts
+});
+
+const fs = require('fs');
+fs.readFile("./Survivor_Perks.txt", 'utf8', (err,data) =>{
+
+    if(err){
+        console.error(err);
+        return;
+    }
+    const lines = data.split('\n');
+
+    lines.forEach((line,index) => {
+        const specificLine = line;
+
+        const parts = specificLine.split(',');
+        const perk_name = parts[0];
+        const image_url = parts.slice(1).map(image => image.trim());
+            
+        const query = 'INSERT INTO survivor_perks (perk_name, perk_image) VALUES (?,?)';
+        connection.query(query, [perk_name,image_url], (err,result) =>{
+
+            if(err) throw err;
+            console.log(result);
+
+        });
+
+
+      
+
+    });
+
+
+    connection.end(); //Connection.end() needs to be here otherwise the connection ends before it starts
+});*/
+
+
 app.get("/", function(req,res){
     //Find count of users in Database, and respond with that count.
     res.render("home.ejs");
@@ -161,6 +254,44 @@ connection.query(perksQuery, (err,perkResults) =>{
 });
 
 });
+
+
+app.get("/randomgensurvivor", function(req,res){
+
+
+
+    
+    let query = 'SELECT * FROM survivors ORDER BY RAND() LIMIT 1';
+    const survivor_perksQuery = 'SELECT * FROM survivor_perks ORDER BY RAND() LIMIT 4';
+
+
+
+    connection.query(query, (err, results) => {
+        if (err) {
+            console.error(err);
+            res.status(500).send("Error retrieving survivor");
+            return;
+        }
+        
+
+        const randomSurvivor = results[0]; // only one result since LIMIT 1
+    
+
+
+
+connection.query(survivor_perksQuery, (err,perkResults) =>{
+
+    if(err) throw err;
+    res.render("randomsurvivor.ejs", {data: randomSurvivor.survivor_name, perks: perkResults,  survivor_image: randomSurvivor.survivor_image
+
+    });
+
+});
+
+});
+
+});
+
 
   
 app.listen(8080,function(){

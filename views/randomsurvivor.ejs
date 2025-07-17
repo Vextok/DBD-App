@@ -1,0 +1,31 @@
+<link rel="stylesheet" href="/dbdapp.css">
+
+
+<div class="flex-container">
+    <div class="container">
+        <h1>DBD RANDOM SURVIVOR GENERATOR</h1>
+        <p class="lead">Your randomly generated survior is: <strong> <%= data %> </strong> </p>
+
+        <!-- Display Image -->
+        <img src= <%= survivor_image %> style="max-width: 300px; height: auto; margin-top: 20px;">
+        <form method="GET" action='/randomgensurvivor'>
+            <button>Generate Random Survivor</button>
+        </form>
+    </div>
+</div>
+
+<h3>Random Perks:</h3>
+<div class ="perk-container"> <!-- Calls the styling class in dbdapp.css and adjusts from there-->
+        <% perks.forEach(perk => { %>
+            <div class ="perk-card">
+            <img src="<%= perk.perk_image%>" alt="<%= perk.perk_name %>" style="max-width: 100px; height: auto;">
+            <p><%= perk.perk_name %></p>
+            </div>   
+        <% }) %>
+</div>
+
+
+
+<form method="GET" action="/">
+    <button type="submit">Back to Homepage</button>
+</form>
