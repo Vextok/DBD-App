@@ -15,12 +15,12 @@ Bite the Bullet, survivor_perk_images/bite_the_bullet.jpg
 Blast Mine, survivor_perk_images/blast_mine.jpg
 Blood Pact, survivor_perk_images/blood_pact.jpg
 Blood Rush, survivor_perk_images/blood_rush.jpg
-Boil Over, survivor_perk_images/boil_over
+Boil Over, survivor_perk_images/boil_over.jpg
 Bond, survivor_perk_images/bond.jpg
 Boon: Circle of Healing, survivor_perk_images/boon_circle_of_healing.jpg
 Boon: Dark Theory, survivor_perk_images/boon_dark_theory.jpg
-Boon: Exponential, survivor_perk_images/boon_exponential
-Boon: Illumination, survivor_perk_images/boon_illumination
+Boon: Exponential, survivor_perk_images/boon_exponential.jpg
+Boon: Illumination, survivor_perk_images/boon_illumination.jpg
 Boon: Shadow Step, survivor_perk_images/boon_shadow_step.jpg
 Borrowed Time, survivor_perk_images/borrowed_time.jpg
 Botany Knowledge, survivor_perk_images/botany_knowledge.jpg
@@ -138,7 +138,7 @@ This Is Not Happening, survivor_perk_images/this_is_not_happening.jpg
 Troubleshooter, survivor_perk_images/troubleshooter.jpg
 Unbreakable, survivor_perk_images/unbreakable.jpg
 Up the Ante, survivor_perk_images/up_the_ante.jpg
-Urban Evasion, survivor_perk_images/urban_evasion
+Urban Evasion, survivor_perk_images/urban_evasion.jpg
 Vigil, survivor_perk_images/vigil.jpg
 Visionary, survivor_perk_images/visionary.jpg
 Wake Up!, survivor_perk_images/wake_up.jpg

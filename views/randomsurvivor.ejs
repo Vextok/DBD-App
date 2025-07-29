@@ -4,10 +4,10 @@
 <div class="flex-container">
     <div class="container">
         <h1>DBD RANDOM SURVIVOR GENERATOR</h1>
-        <p class="lead">Your randomly generated survior is: <strong> <%= data %> </strong> </p>
+        <p class="lead" id="survivor">Your randomly generated survior is: <strong> <%= data %> </strong> </p>
 
         <!-- Display Image -->
-        <img src= <%= survivor_image %> style="max-width: 300px; height: auto; margin-top: 20px;">
+        <img id = "character_image" src= <%= survivor_image %> style="max-width: 300px; height: 200px; margin-top: 20px;">
         <form method="GET" action='/randomgensurvivor'>
             <button>Generate Random Survivor</button>
         </form>
@@ -18,7 +18,7 @@
 <div class ="perk-container"> <!-- Calls the styling class in dbdapp.css and adjusts from there-->
         <% perks.forEach(perk => { %>
             <div class ="perk-card">
-            <img src="<%= perk.perk_image%>" alt="<%= perk.perk_name %>" style="max-width: 100px; height: auto;">
+            <img id = "image" src="<%= perk.perk_image%>" alt="<%= perk.perk_name %>" style="max-width: 150px; height: 150px;">
             <p><%= perk.perk_name %></p>
             </div>   
         <% }) %>
